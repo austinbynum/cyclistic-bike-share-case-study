@@ -17,9 +17,14 @@ This project serves as a comprehensive case study on how **Annual Members** and 
 * `05_reports/`: Executive summary and final project PDF.
 
 ## 📊 Data & Methodology
-The dataset includes approximately **4.2 million records**. Due to size constraints, raw data is not hosted on GitHub.
-* **[Official Source](https://divvy-tripdata.s3.amazonaws.com/index.html):** You can download the data from the original source in compliance with [their license](https://divvybikes.com/data-license-agreement)
-* **[Zipped Raw Data](https://drive.google.com/file/d/1cDsWQQZ9oKfTgZj8xkFndKC6wJ7gGUWp/view?usp=drive_link):** You can download a zip file of the specific raw CSVs used in this analysis from my Google Drive.
+The dataset includes approximately **4.2 million records**. Due to size constraints, raw data is not hosted on GitHub. To reproduce this analysis from raw data, follow the steps below.
+
+**You only need to complete these steps if you want to reproduce the analysis from raw data.**
+
+1. Remove Parquet File: You will need to delete the 'all_trips_v2_processed.parquet' file from the '02_processed_data' directory. This file was compiled after the data was cleaned and processed. If it is present, the code will use it instead of the raw data.
+2. Access Raw Data:
+    * [zip file](https://drive.google.com/file/d/1UI4Ou2bHVS-NbilmWFvzcEy-Og_hKEyS/view?usp=drive_link): You can download the specific raw CSVs used in this analysis from my Google Drive.
+    * [official source](https://divvy-tripdata.s3.amazonaws.com/index.html): Alternatively, you can download the raw data directly from the official source in compliance with [their license](https://divvybikes.com/data-license-agreement).
 
 ### Key Processing Steps:
 1. **Standardization:** Consolidated five separate dataframes and standardized column headers.
