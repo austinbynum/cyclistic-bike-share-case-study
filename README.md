@@ -1,7 +1,10 @@
 # Cyclistic Bike-Share: Behavioral Analysis & Membership Conversion Strategy
 
 ## 🚲 Project Overview
-This project serves as a comprehensive case study on how **Annual Members** and **Casual Riders** utilize Cyclistic bike-sharing services differently. By analyzing 15 months of historical data (Q1 2019 - Q1 2020), I identified key trends to guide a marketing strategy aimed at converting casual users into long-term annual members.
+This project serves as a comprehensive data analysis case study exploring the behavioral differences between **Annual Members** and **Casual Riders** utilizing Cyclistic's bike-sharing network. I processed and analyzed 15 months of historical trip data (Q1 2019 - Q1 2020) to uncover actionable usage trends. 
+
+## 🎯 Business Task
+**The primary objective:** Analyze historical trip data to understand how different customer segments use Cyclistic bikes differently, and use those insights to design a targeted marketing strategy aimed at converting casual riders into profitable, long-term annual members.
 
 ## 🛠️ Technical Toolkit
 * **Python:** Primary tool for data processing and analysis.
