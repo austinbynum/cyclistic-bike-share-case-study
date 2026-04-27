@@ -52,8 +52,8 @@ The dataset includes approximately **4.2 million records**. Due to size constrai
 <img src="04_visualizations/top_10_stations.png" alt="Top 10 Stations" width="500">
 
 ---
-
-## 📫 Connect with Me
-* **Portfolio:** [austinbynum.com](https://austinbynum.com)
+### 👨‍💻 Connect with Me
+* **Portfolio:** [austinbynum.com](https://www.austinbynum.com)
 * **GitHub:** [github.com/austinbynum](https://github.com/austinbynum)
-* **LinkedIn:** [https://www.linkedin.com/in/austin-bynum-323228315/](https://www.linkedin.com/in/austin-bynum-323228315/)
+* **LinkedIn:** [linkedin.com/in/austin-bynum-323228315](https://www.linkedin.com/in/austin-bynum-323228315/)
+* **Kaggle:** [kaggle.com/austinbynumahs10](https://www.kaggle.com/austinbynumahs10)
